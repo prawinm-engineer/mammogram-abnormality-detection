@@ -1,6 +1,12 @@
 tensorflow
-opencv-python
+keras
 numpy
 pandas
 matplotlib
+plotly
+opencv-python
+Pillow
 scikit-learn
+seaborn
+pydicom
+tqdm
